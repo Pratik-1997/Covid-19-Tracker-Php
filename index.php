@@ -65,10 +65,10 @@
          <table class="table">
                 <thead class="thead-dark">
                     <tr>
-                        <th scope="col">Countries</th>
-                        <th scope="col">Confirmed</th>
-                        <th scope="col">Recovered</th>
-                        <th scope="col">Deceased</th>
+                        <th scope="col-sm-3">Countries</th>
+                        <th scope="col-sm-3">Confirmed</th>
+                        <th scope="col-sm-3">Recovered</th>
+                        <th scope="col-sm-3">Deceased</th>
                         
                     </tr>
                 </thead>
