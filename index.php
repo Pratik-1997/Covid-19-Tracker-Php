@@ -61,7 +61,7 @@
 
 
     <div class="container-fluid">
-         <div class="table-responsiver">
+         <div class="table-responsive">
          <table class="table">
                 <thead class="thead-dark">
                     <tr>
